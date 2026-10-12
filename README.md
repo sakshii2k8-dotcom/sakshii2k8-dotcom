@@ -13,8 +13,8 @@ I'm a first-semester Computer Science student learning programming, problem-solv
 
 ## Projects
 
-* **Programming Fundamentals Lab Tasks:** C programming assignments and practice exercises.
-* **Airplane System:** Currently in the planning stage.
+* **Programming Fundamentals Lab Tasks:** C programming assignments and practice exercises completed as part of my first-semester studies at FAST-NUCES Karachi.
+* **Airplane Management System:** In the planning stage. Developing the project concept and outlining its features using C.
 
 ## Technologies and Tools
 
